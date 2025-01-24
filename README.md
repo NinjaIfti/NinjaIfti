@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iftikhar Ahmed</h1>
-<h3 align="center">A driven and enthusiastic computer science student with a strong passion for data science, machine learning, and software development. Continuously exploring the intersection of technology and innovation to create impactful solutions.</h3>
+<h3 align="center">A driven and enthusiastic computer science student with a strong passion for data science,app development,machine learning, and software development. Continuously exploring the intersection of technology and innovation to create impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NinjaIfti&label=Profile%20views&color=0e75b6&style=flat" alt="NinjaIfti" /> </p>
 
@@ -11,27 +11,26 @@
 
 - 🤝 I’m looking for help with **exploring advanced PyTorch techniques for real-world data science applications.**
 
-- 👨‍💻 All of my projects are available at [github.com/NinjaIfti](github.com/NinjaIfti)
+- 👨‍💻 All of my projects are available at [https://github.com/NinjaIfti?tab=repositories](https://github.com/NinjaIfti?tab=repositories)
 
-- 📝 I regularly write articles on [N/A](N/A)
 
 - 💬 Ask me about **Machine learning, Deep learning, PyTorch, and how to build efficient Telegram bots.**
 
 - 📫 How to reach me **ifti3061@gmail.com**
 
-- 📄 Know about my experiences [Exploring neural networks, data science projects, and academic research.](Exploring neural networks, data science projects, and academic research.)
 
 - ⚡ Fun fact **I can spend hours solving a coding problem but might still forget where I put my glasses!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amanullahshah32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanullahshah32" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amanullahshah32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanullahshah32" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26314111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26314111" height="30" width="40" /></a>
-<a href="https://kaggle.com/amanullahshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amanullahshah" height="30" width="40" /></a>
-<a href="https://fb.com/amanullahshah32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amanullahshah32" height="30" width="40" /></a>
-<a href="https://instagram.com/amanullahshah32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanullahshah32" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/amanullah_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amanullah_shah" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/iftikhar-ahmed-223329339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ninjaifti" height="30" width="40" /></a>
+
+<a href="https://www.kaggle.com/ninjaifti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Ninjaifti" height="30" width="40" /></a>
+<a href="https://fb.com/NinjaIfti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NinjaIfti" height="30" width="40" /></a>
+<a href="https://instagram.com/NinjaIfti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="NinjaIfti" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/iftikharahmed13" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" alt="iftikharahmed13" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
