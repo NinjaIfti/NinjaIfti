@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Iftikhar Ahmed</h1>
 <h3 align="center">A driven and enthusiastic computer science student with a strong passion for data science, machine learning, and software development. Continuously exploring the intersection of technology and innovation to create impactful solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanullahshah32&label=Profile%20views&color=0e75b6&style=flat" alt="amanullahshah32" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NinjaIfti&label=Profile%20views&color=0e75b6&style=flat" alt="NinjaIfti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanullahshah32" alt="amanullahshah32" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NinjaIfti" alt="NinjaIfti" /></a> </p>
 
 - 🌱 I’m currently learning **cutting-edge deep learning frameworks and their applications in healthcare and AI-driven solutions.**
 
@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **exploring advanced PyTorch techniques for real-world data science applications.**
 
-- 👨‍💻 All of my projects are available at [github.com/amanullahshah32](github.com/amanullahshah32)
+- 👨‍💻 All of my projects are available at [github.com/NinjaIfti](github.com/NinjaIfti)
 
 - 📝 I regularly write articles on [N/A](N/A)
 
 - 💬 Ask me about **Machine learning, Deep learning, PyTorch, and how to build efficient Telegram bots.**
 
-- 📫 How to reach me **amanullahshah012@gmail.com**
+- 📫 How to reach me **ifti3061@gmail.com**
 
 - 📄 Know about my experiences [Exploring neural networks, data science projects, and academic research.](Exploring neural networks, data science projects, and academic research.)
 
@@ -39,6 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanullahshah32&show_icons=true&locale=en&layout=compact" alt="amanullahshah32" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanullahshah32&show_icons=true&locale=en" alt="amanullahshah32" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NinjaIfti&show_icons=true&locale=en" alt="NinjaIfti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanullahshah32&" alt="amanullahshah32" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NinjaIfti&" alt="NinjaIfti" /></p>
