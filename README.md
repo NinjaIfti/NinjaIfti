@@ -115,9 +115,9 @@ Full portfolio at **[iftikharahmed.site](https://iftikharahmed.site/)**.
   <img src="https://raw.githubusercontent.com/NinjaIfti/NinjaIfti/output/snake.svg" alt="Snake animation eating my contributions" />
 </p>
 
-<h3 align="center">🟩 Days I Coded</h3>
+<h3 align="center">🌙 Sleepless Nights</h3>
 <p align="center">
-  <img src="https://ghchart.rshah.org/1c4f8f/NinjaIfti" alt="NinjaIfti contribution chart" width="100%" />
+  <img src="https://ghchart.rshah.org/NinjaIfti" alt="NinjaIfti contribution chart" width="100%" />
 </p>
 
 <p align="center">
