@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Open_to-MSc%20%2F%20PhD%20positions-success?style=flat" alt="Open to MSc / PhD positions" />
 </p>
 
+<p align="center">
+  ⚡ <b>Fun fact:</b> I can spend hours solving a coding problem but might still forget where I put my glasses!
+</p>
+
 ---
 
 ## 🔬 Research
@@ -41,15 +45,6 @@ generators. I also work on **biomedical image analysis** at the Big-Matrix R&D L
 **[S1]** <ins>Iftikhar Ahmed</ins>, M. N. Mithila, A. Dhrubo, M. A. Qayum, M. Khan.
 *"DASF-Net: Dual-Adversarial Spectral Fusion for Cross-Lingual and Adversarially Robust Audio Deepfake Detection."*
 ![Under review](https://img.shields.io/badge/status-under%20review-orange?style=flat-square)
-
-### 🧪 Current Work
-
-| Project | What it asks | Status |
-|---|---|---|
-| **Cross-Lingual Deepfake Detection** (EN ↔ BN) | When a detector fails on a new language — is it the *language* or the *unseen generator*? | Ongoing |
-| [**Polyp Segmentation**](https://github.com/NinjaIfti/Bio-Segmentation) | U-Net + ResNet34 on Kvasir-SEG — **0.910 mDice / 0.855 mIoU** | Public code |
-| **Multimodal AI for Lung Cancer** | Fusing CT, histopathology & molecular markers to predict treatment response | Proposed, Big-Matrix Lab |
-| **LectureAssist** | Can a fully local agentic pipeline turn lectures into adaptive study material? | Undergrad thesis |
 
 ### 🧠 Research Toolkit
 
@@ -159,10 +154,4 @@ Full portfolio at **[iftikharahmed.site](https://iftikharahmed.site/)**.
 <a href="https://fb.com/NinjaIfti" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NinjaIfti" height="30" width="40" /></a>
 <a href="https://instagram.com/NinjaIfti" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="NinjaIfti" height="30" width="40" /></a>
 <a href="https://www.fiverr.com/iftikharahmed13" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=ngc6JsBomclm&format=png&color=000000" alt="iftikharahmed13" height="30" width="40" /></a>
-</p>
-
----
-
-<p align="center">
-  ⚡ <b>Fun fact:</b> I can spend hours solving a coding problem but might still forget where I put my glasses!
 </p>
