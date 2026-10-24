@@ -110,11 +110,6 @@ Full portfolio at **[iftikharahmed.site](https://iftikharahmed.site/)**.
   <img src="https://streak-stats.demolab.com/?user=NinjaIfti&hide_border=true" alt="GitHub streak" />
 </p>
 
-<h3 align="center">🐍 Contributions Eaten by a Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NinjaIfti/NinjaIfti/output/snake.svg" alt="Snake animation eating my contributions" />
-</p>
-
 <h3 align="center">🌙 Sleepless Nights</h3>
 <p align="center">
   <img src="https://ghchart.rshah.org/NinjaIfti" alt="NinjaIfti contribution chart" width="100%" />
