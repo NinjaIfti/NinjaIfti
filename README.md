@@ -115,7 +115,7 @@ Full portfolio at **[iftikharahmed.site](https://iftikharahmed.site/)**.
   <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity by git-koi" />
 </p>
 <p align="center">
-  <sub>Drawn nightly by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>: my languages color it, my contributions grow it, and yesterday decides how it swims.</sub>
+  <sub><i>It feeds on my commits. Skip a day and it knows.</i> · <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
 </p>
 
 <h3 align="center">🌙 Sleepless Nights</h3>
