@@ -110,6 +110,14 @@ Full portfolio at **[iftikharahmed.site](https://iftikharahmed.site/)**.
   <img src="https://streak-stats.demolab.com/?user=NinjaIfti&hide_border=true" alt="GitHub streak" />
 </p>
 
+<h3 align="center">🐟 My Koi</h3>
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity by git-koi" />
+</p>
+<p align="center">
+  <sub>Drawn nightly by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>: my languages color it, my contributions grow it, and yesterday decides how it swims.</sub>
+</p>
+
 <h3 align="center">🌙 Sleepless Nights</h3>
 <p align="center">
   <img src="https://ghchart.rshah.org/NinjaIfti" alt="NinjaIfti contribution chart" width="100%" />
