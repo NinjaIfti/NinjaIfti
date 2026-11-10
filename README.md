@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iftikhar Ahmed</h1>
-<h3 align="center">Research Assistant @ Big-Matrix R&D Lab · Audio Deepfake Detection & Adversarial Robustness</h3>
+<h3 align="center">Research Assistant @ Big-Matrix R&D Lab </h3>
 
 <p align="center">
   <a href="https://research.iftikharahmed.site/"><img src="https://img.shields.io/badge/Research_Site-1c4f8f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Research site" /></a>
